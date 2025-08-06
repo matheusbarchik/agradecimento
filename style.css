@@ -23,6 +23,7 @@
   color: var(--corSecund);
   font-weight: bold;
   transition: color 0.3s;
+  list-style: none;
 }
 
 #home :hover {
@@ -30,6 +31,7 @@
   color: var(--corSecund);
   font-weight: bold;
   transition: color 0.3s;
+  list-style: none;
 }
 
 body {
@@ -198,4 +200,5 @@ footer {
 #btnContato:hover {
   background-color: var(--corComMouse);
 }
+
 
