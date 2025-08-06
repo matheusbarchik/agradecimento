@@ -18,6 +18,20 @@
   height: 225px;
 }
 
+#home {
+  text-decoration: none;
+  color: var(--corSecund);
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+#home :hover {
+  text-decoration: none;
+  color: var(--corSecund);
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
 body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
@@ -184,3 +198,4 @@ footer {
 #btnContato:hover {
   background-color: var(--corComMouse);
 }
+
